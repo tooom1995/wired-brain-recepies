@@ -1,0 +1,8 @@
+what am i supposed to do now?
+
+git remote add origin https://github.com/tooom1995/wired-brain-recepies.git
+
+
+
+
+cd..
